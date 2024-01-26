@@ -1,0 +1,14 @@
+
+{
+    "mainBlock":{
+        "logo": "Sweet box",
+        "address": "city. St. Petersburg, St. 31 Kuibysheva",
+        "openHours": "Every day from 9:00 to 20:00",
+        "buttonDelicious": "delicious",
+        "mainTitle": "Cakes and cupcakes from 150 ₽/piece. with delivery throughout St. Petersburg",
+        "underTitle":"We will prepare it in 3 hours on the day of your order. Delivery by car in the refrigerator.",
+        "buttonCatalog": "Go to catalog",
+        "diffSelect":"9 different types to choose from",
+        "eventsTitle": "For any events and people dear to you"
+    }
+}
