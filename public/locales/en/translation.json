@@ -10,5 +10,71 @@
         "buttonCatalog": "Go to catalog",
         "diffSelect":"9 different types to choose from",
         "eventsTitle": "For any events and people dear to you"
+    },
+    "secondBlock":{
+        "tagline":"For any events and people dear to you ",
+        "imageOne":{
+            "image":"",
+            "cakeName":"Cream Castle",
+            "description":"Delicate cream of any color of your choice, waffle base",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageTwo":{
+            "image":"",
+            "cakeName":"Raspberry Paradise",
+            "description":"Airy cream, dark base and raspberry",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageThree":{
+            "image":"",
+            "cakeName":"Fireworks",
+            "description":"Multi-colored cream, with biscuit base",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageFour":{
+            "image":"",
+            "cakeName":"Chocolate world",
+            "description":"Nut shavings, delicate cream and chocolate base",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageFive":{
+            "image":"",
+            "cakeName":"Dragon Tears",
+            "description":"Delicate cream of any color of your choice, waffle base",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageSix":{
+            "image":"",
+            "cakeName":"Summer fantasy",
+            "description":"Heart-shaped jewelry for your loved one",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageSeven":{
+            "image":"",
+            "cakeName":"Cape of Madness",
+            "description":"Multi-colored base, shavings and delicate cream",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageEight":{
+            "image":"",
+            "cakeName":"Cloud Tale",
+            "description":"Light base, delicate cream with shavings on top",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        },
+        "imageNine":{
+            "image":"",
+            "cakeName":"The Dark Knight",
+            "description":"Dark base, delicate cream and delicious balls",
+            "price":"150 ₽/piece.",
+            "orderButton":"Order"
+        }
     }
 }

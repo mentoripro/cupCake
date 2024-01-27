@@ -9,5 +9,71 @@
         "buttonCatalog": "Перейти в каталог",
         "diffSelect":"9 различных видов на выбор",
         "eventsTitle": "Для любых событий и дорогих вам людей"
+    },
+    "secondBlock":{
+        "tagline":"Для любых событий и дорогих вам людей ",
+        "imageOne":{
+            "image":"",
+            "cakeName":"Кремовый замок",
+            "description":"Нежный крем любого цвета на выбор, вафельная основа",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageTwo":{
+            "image":"",
+            "cakeName":"Малиновый рай",
+            "description":"Воздушный крем, темная основа и ягода малины",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageThree":{
+            "image":"",
+            "cakeName":"Фейерверк",
+            "description":"Разноцветные крем, с бисквитной основой",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageFour":{
+            "image":"",
+            "cakeName":"Шоколадный мир",
+            "description":"Ореховая стружка, нежный крем и шоколадная основа",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageFive":{
+            "image":"",
+            "cakeName":"Слезы дракона",
+            "description":"Нежный крем любого цвета на выбор, вафельная основа",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageSix":{
+            "image":"",
+            "cakeName":"Летняя фантазия",
+            "description":"Украшения в форме сердец, для любимого человека",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageSeven":{
+            "image":"",
+            "cakeName":"Мыс безумия",
+            "description":"Разноцветная основа, стружка и нежный крем",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageEight":{
+            "image":"",
+            "cakeName":"Облачная сказка",
+            "description":"Светлая основа, нежный крем со стружкой сверху",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        },
+        "imageNine":{
+            "image":"",
+            "cakeName":"Темный рыцарь",
+            "description":"Тёмная основа, нежный крем и вкусные шарики",
+            "price":"150 ₽/шт.",
+            "orderButton":"Заказать"
+        }
     }
 }
